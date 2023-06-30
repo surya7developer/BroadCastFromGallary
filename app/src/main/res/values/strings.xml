@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiverExample</string>
+    <string name="type_not_supported">Type not supported</string>
+</resources>
